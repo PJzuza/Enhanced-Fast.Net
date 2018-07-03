@@ -77,6 +77,9 @@ if Hooks then
 					if mod:GetName() == "ChnMod (Patch)" and mod:IsEnabled() then
 						custom_lang = "chinese"
 						break
+					elseif mod:GetName() == "PAYDAY 2 THAI LANGUAGE Mod" and mod:IsEnabled() then
+						custom_lang = "thai"
+						break
 					end
 				end
 			end

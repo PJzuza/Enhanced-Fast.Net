@@ -1,0 +1,14 @@
+{
+	"fast_net_title" : "ฟาส.เน็ต",
+	"fast_net_help" : "เข้าสู่ระบบ ฟาส.เน็ต(Fast.net) เพื่อเข้าร่วมกับนักปล้นคนอื่นด้วยความเร็วเหนือแสง",
+	"fast_net_friends_title" : "เพื่อนนักปล้นใน ฟาส.เน็ต",
+	"menu_button_reconnect" : "เชื่อมต่ออีกครั้ง",
+	"fastnet_settings_name" : "การตั้งค่า ฟาส.เน็ต",
+	"fastnet_settings_help" : "องค์ประกอบของ ฟาส.เน็ต",
+	"fastnet_friends_menu_title" : "แสดง 'เพื่อนนักปล้นใน ฟาส.เน็ต'",
+	"fastnet_friends_menu_desc" : "แสดงเมนู 'เพื่อนนักปล้นใน ฟาส.เน็ต' แยกออกจากระบบปรกติ",
+	"fastnet_show_reconnect_title" : "แสดงการเชื่อมต่ออีกครั้ง",
+	"fastnet_show_reconnect_desc" : "แสดงปุ่มเชื่อมต่ออีกครั้งใน Crime.net และใน Fast.net",
+	
+	"fastnet_mutators_tag" : "[มิวเตชั่น]"
+}
